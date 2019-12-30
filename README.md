@@ -1,5 +1,4 @@
 ## Gender, Age, and Emotions extracted for Flickr-Faces-HQ Dataset (FFHQ)
-![Python 3.6](https://img.shields.io/badge/python-3.6-green.svg?style=plastic)
 ![License CC](https://img.shields.io/badge/license-CC-green.svg?style=plastic)
 ![Format JSON](https://img.shields.io/badge/format-JSON-green.svg?style=plastic)
 ![Images 70000](https://img.shields.io/badge/images-70,000-green.svg?style=plastic)
